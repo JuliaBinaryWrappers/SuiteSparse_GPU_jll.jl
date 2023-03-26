@@ -27,19 +27,19 @@ function __init__()
 
     JLLWrappers.@init_library_product(
         libcholmod,
-        "lib/libcholmod.so.3.0.14",
+        "lib/libcholmod.so.3",
         RTLD_LAZY | RTLD_DEEPBIND,
     )
 
     JLLWrappers.@init_library_product(
         libspqr,
-        "lib/libspqr.so.2.0.9",
+        "lib/libspqr.so.2",
         RTLD_LAZY | RTLD_DEEPBIND,
     )
 
     JLLWrappers.@init_library_product(
         libsuitesparseconfig,
-        "lib/libsuitesparseconfig.so.5.10.1",
+        "lib/libsuitesparseconfig.so.5",
         RTLD_LAZY | RTLD_DEEPBIND,
     )
 

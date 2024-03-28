@@ -1,110 +1,110 @@
 [[SuiteSparse_GPU]]
 arch = "x86_64"
 cuda = "11.4"
-git-tree-sha1 = "fa7ebcc5be9c96abda974aed927063334b16e44a"
+git-tree-sha1 = "e5d9722419fad081a38ea342f6cbd3cd9f751e04"
 lazy = true
 libc = "glibc"
 os = "linux"
 
     [[SuiteSparse_GPU.download]]
-    sha256 = "f684be72627ca5db97d519bc2d97bcd33ff155cbd8702f4885033a03086b24bf"
-    url = "https://github.com/JuliaBinaryWrappers/SuiteSparse_GPU_jll.jl/releases/download/SuiteSparse_GPU-v7.6.1+0/SuiteSparse_GPU.v7.6.1.x86_64-linux-gnu-cuda+11.4.tar.gz"
+    sha256 = "61b7f3acce12d137aaa493fba320936404efc4783d3612d3e950f34ff64cd463"
+    url = "https://github.com/JuliaBinaryWrappers/SuiteSparse_GPU_jll.jl/releases/download/SuiteSparse_GPU-v7.7.0+0/SuiteSparse_GPU.v7.7.0.x86_64-linux-gnu-cuda+11.4.tar.gz"
 [[SuiteSparse_GPU]]
 arch = "x86_64"
 cuda = "11.5"
-git-tree-sha1 = "ece63d04945db09e7934a0bd6fc5ac2df2079a55"
+git-tree-sha1 = "3b40130ecebd02a2f61559c30d7b0a325245754a"
 lazy = true
 libc = "glibc"
 os = "linux"
 
     [[SuiteSparse_GPU.download]]
-    sha256 = "40eecf0b96cec903aa28032b176d1260ae4de8a81ff6c83185389634d301e84a"
-    url = "https://github.com/JuliaBinaryWrappers/SuiteSparse_GPU_jll.jl/releases/download/SuiteSparse_GPU-v7.6.1+0/SuiteSparse_GPU.v7.6.1.x86_64-linux-gnu-cuda+11.5.tar.gz"
+    sha256 = "99e05e6774f36c9c45e2de5cd84f61d4689938f4cb1265a5892bf6b5038217d0"
+    url = "https://github.com/JuliaBinaryWrappers/SuiteSparse_GPU_jll.jl/releases/download/SuiteSparse_GPU-v7.7.0+0/SuiteSparse_GPU.v7.7.0.x86_64-linux-gnu-cuda+11.5.tar.gz"
 [[SuiteSparse_GPU]]
 arch = "x86_64"
 cuda = "11.6"
-git-tree-sha1 = "59e47d7d1732e894d7d1571987fc61541763c29f"
+git-tree-sha1 = "8ae7c015f367325bf6f33f04598b6f309f73ae51"
 lazy = true
 libc = "glibc"
 os = "linux"
 
     [[SuiteSparse_GPU.download]]
-    sha256 = "39e483ccf6ed0e5b8e963de2386a67e4335fd4b6744467d0f1b9d5dbda4f9766"
-    url = "https://github.com/JuliaBinaryWrappers/SuiteSparse_GPU_jll.jl/releases/download/SuiteSparse_GPU-v7.6.1+0/SuiteSparse_GPU.v7.6.1.x86_64-linux-gnu-cuda+11.6.tar.gz"
+    sha256 = "198a2c9719df9ea56529be865c77a98a82cc6c4634d6429139a983e8062ceda9"
+    url = "https://github.com/JuliaBinaryWrappers/SuiteSparse_GPU_jll.jl/releases/download/SuiteSparse_GPU-v7.7.0+0/SuiteSparse_GPU.v7.7.0.x86_64-linux-gnu-cuda+11.6.tar.gz"
 [[SuiteSparse_GPU]]
 arch = "x86_64"
 cuda = "11.7"
-git-tree-sha1 = "6eb4bc9d3d9e62fa8ed3cfa95d46d2e543f6a3f9"
+git-tree-sha1 = "17690aa6aeeffab08aca9f05dad4d6f03140d128"
 lazy = true
 libc = "glibc"
 os = "linux"
 
     [[SuiteSparse_GPU.download]]
-    sha256 = "7e5113990fc2af8afa682056c9e8f7df37173f314d995ca06d0695500df19af5"
-    url = "https://github.com/JuliaBinaryWrappers/SuiteSparse_GPU_jll.jl/releases/download/SuiteSparse_GPU-v7.6.1+0/SuiteSparse_GPU.v7.6.1.x86_64-linux-gnu-cuda+11.7.tar.gz"
+    sha256 = "eeea9bbc14449d5614dc9ea4e3bd9c1d0985ce022dd691aeb9f806a67ebd9211"
+    url = "https://github.com/JuliaBinaryWrappers/SuiteSparse_GPU_jll.jl/releases/download/SuiteSparse_GPU-v7.7.0+0/SuiteSparse_GPU.v7.7.0.x86_64-linux-gnu-cuda+11.7.tar.gz"
 [[SuiteSparse_GPU]]
 arch = "x86_64"
 cuda = "11.8"
-git-tree-sha1 = "1da22279e7d9491fee1bc3af8ddcaf31a86bcc88"
+git-tree-sha1 = "ceb222f60016ff05b9792d4fe5f54fe694c8dc13"
 lazy = true
 libc = "glibc"
 os = "linux"
 
     [[SuiteSparse_GPU.download]]
-    sha256 = "0d870cbfc37afb2a21c0eef9bd46b2137a8714a8a3badadb50dc974a713d05e9"
-    url = "https://github.com/JuliaBinaryWrappers/SuiteSparse_GPU_jll.jl/releases/download/SuiteSparse_GPU-v7.6.1+0/SuiteSparse_GPU.v7.6.1.x86_64-linux-gnu-cuda+11.8.tar.gz"
+    sha256 = "bab509e77da6b038d69e508fa89a44ba67ca2311b06d713a0a3d87ec6c7e6da8"
+    url = "https://github.com/JuliaBinaryWrappers/SuiteSparse_GPU_jll.jl/releases/download/SuiteSparse_GPU-v7.7.0+0/SuiteSparse_GPU.v7.7.0.x86_64-linux-gnu-cuda+11.8.tar.gz"
 [[SuiteSparse_GPU]]
 arch = "x86_64"
 cuda = "12.0"
-git-tree-sha1 = "884e5cbff12cc1aad5fe68af22c8b1f25dfd83eb"
+git-tree-sha1 = "fd4ba271a08125204bf23a9b021252ab13743e23"
 lazy = true
 libc = "glibc"
 os = "linux"
 
     [[SuiteSparse_GPU.download]]
-    sha256 = "8373bae8ff7f2dd00a56ac977c25097c2366b32e0b27ce017af3853405118d27"
-    url = "https://github.com/JuliaBinaryWrappers/SuiteSparse_GPU_jll.jl/releases/download/SuiteSparse_GPU-v7.6.1+0/SuiteSparse_GPU.v7.6.1.x86_64-linux-gnu-cuda+12.0.tar.gz"
+    sha256 = "19b13bf381c609e60d1a67a7ff21d3f114ea9ed443eac20cf7377efa12f942c7"
+    url = "https://github.com/JuliaBinaryWrappers/SuiteSparse_GPU_jll.jl/releases/download/SuiteSparse_GPU-v7.7.0+0/SuiteSparse_GPU.v7.7.0.x86_64-linux-gnu-cuda+12.0.tar.gz"
 [[SuiteSparse_GPU]]
 arch = "x86_64"
 cuda = "12.1"
-git-tree-sha1 = "2e72959b52d77dc9ddb6f6b91c876d498091dbbd"
+git-tree-sha1 = "fa2f4c3d4db6d4245e3c4e40e96bd594691e35ce"
 lazy = true
 libc = "glibc"
 os = "linux"
 
     [[SuiteSparse_GPU.download]]
-    sha256 = "104b419b4c3c00494353cfbf43ce1f5d8c88ccf565c2a9f123e531c85740735c"
-    url = "https://github.com/JuliaBinaryWrappers/SuiteSparse_GPU_jll.jl/releases/download/SuiteSparse_GPU-v7.6.1+0/SuiteSparse_GPU.v7.6.1.x86_64-linux-gnu-cuda+12.1.tar.gz"
+    sha256 = "bb8e2ac0eefa4173010aa27caa3dc4c6c19ed61a846cd0fc3aba04d9ee0b0c9c"
+    url = "https://github.com/JuliaBinaryWrappers/SuiteSparse_GPU_jll.jl/releases/download/SuiteSparse_GPU-v7.7.0+0/SuiteSparse_GPU.v7.7.0.x86_64-linux-gnu-cuda+12.1.tar.gz"
 [[SuiteSparse_GPU]]
 arch = "x86_64"
 cuda = "12.2"
-git-tree-sha1 = "49634c9924e48d9d664c2a5a851915706d34b05e"
+git-tree-sha1 = "1ee81aa9829c7fb308389fce027002a11c2c61f7"
 lazy = true
 libc = "glibc"
 os = "linux"
 
     [[SuiteSparse_GPU.download]]
-    sha256 = "2c5f634864c136711dae2544a4599e16ffd0b339fb7f955de02a08f145dbd03a"
-    url = "https://github.com/JuliaBinaryWrappers/SuiteSparse_GPU_jll.jl/releases/download/SuiteSparse_GPU-v7.6.1+0/SuiteSparse_GPU.v7.6.1.x86_64-linux-gnu-cuda+12.2.tar.gz"
+    sha256 = "4fecbca840bb2e589e9fdb5f1a4d4a01534fedd40a75bef747f9da419dab519f"
+    url = "https://github.com/JuliaBinaryWrappers/SuiteSparse_GPU_jll.jl/releases/download/SuiteSparse_GPU-v7.7.0+0/SuiteSparse_GPU.v7.7.0.x86_64-linux-gnu-cuda+12.2.tar.gz"
 [[SuiteSparse_GPU]]
 arch = "x86_64"
 cuda = "12.3"
-git-tree-sha1 = "3f5666d16966451104602183f5a6acb4a30cb1ce"
+git-tree-sha1 = "4d2bd6956f44e7cfab8d97e67b71fe3662526765"
 lazy = true
 libc = "glibc"
 os = "linux"
 
     [[SuiteSparse_GPU.download]]
-    sha256 = "a428afa5806954d347fd1ab8884c035ecec5ed3a57e062d5ba19e8786aa485df"
-    url = "https://github.com/JuliaBinaryWrappers/SuiteSparse_GPU_jll.jl/releases/download/SuiteSparse_GPU-v7.6.1+0/SuiteSparse_GPU.v7.6.1.x86_64-linux-gnu-cuda+12.3.tar.gz"
+    sha256 = "a3c7c0a69d2089df4b0afeaff690c5950c8c33ea491be224acd172210fa3e442"
+    url = "https://github.com/JuliaBinaryWrappers/SuiteSparse_GPU_jll.jl/releases/download/SuiteSparse_GPU-v7.7.0+0/SuiteSparse_GPU.v7.7.0.x86_64-linux-gnu-cuda+12.3.tar.gz"
 [[SuiteSparse_GPU]]
 arch = "x86_64"
 cuda = "12.4"
-git-tree-sha1 = "18f08c627172ac7b6cb0518a31bbebf96ddf6197"
+git-tree-sha1 = "b4f3961bd3821109601867e74a03028ccad839cd"
 lazy = true
 libc = "glibc"
 os = "linux"
 
     [[SuiteSparse_GPU.download]]
-    sha256 = "1b9d584b6eec09e5acf6753a658fded64325a257a738e0c74bf47569d75cd279"
-    url = "https://github.com/JuliaBinaryWrappers/SuiteSparse_GPU_jll.jl/releases/download/SuiteSparse_GPU-v7.6.1+0/SuiteSparse_GPU.v7.6.1.x86_64-linux-gnu-cuda+12.4.tar.gz"
+    sha256 = "d2f7fcb8981afd22ffdf6f36e8d0844bd6c6a929679f8169c5fcc5dc7a1aa9c4"
+    url = "https://github.com/JuliaBinaryWrappers/SuiteSparse_GPU_jll.jl/releases/download/SuiteSparse_GPU-v7.7.0+0/SuiteSparse_GPU.v7.7.0.x86_64-linux-gnu-cuda+12.4.tar.gz"
